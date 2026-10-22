@@ -1,22 +1,21 @@
 ---
 title: 'Projects'
-date: 2024-05-19
+date: 2026-10-22
 type: landing
 
-# Page sections
 sections:
   - block: collection
     content:
-      title: Selected Projects
-      text: I enjoy making things. Here are a selection of projects that I have worked on over the years.
+      title: Projects
+      text: Current research at Darry Lab, from securing AI systems to applying them in the field.
       filters:
         folders:
           - projects
     design:
       view: article-grid
       fill_image: false
-      columns: 3
+      columns: 2
       show_date: false
       show_read_time: false
-      show_read_more: false
+      show_read_more: true
 ---
