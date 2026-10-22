@@ -6,10 +6,6 @@ weight: 2
 tags:
   - Supply Chain Security
   - Quantum Software
-# TODO: replace with the real repository link, or delete these three lines
-links:
-  - type: code
-    url: https://github.com/example/qsentry
 ---
 
 Quantum programs depend on a fast growing ecosystem of open source compilers, SDKs and libraries. The security practices that now protect classical software supply chains have barely reached it.
